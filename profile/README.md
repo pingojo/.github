@@ -13,7 +13,7 @@ Our platform enables anyone to become a recruiter, matching job seekers with com
 We welcome and encourage contributions from the community! If you're interested in getting involved, please follow these steps:
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
+2. Create your feature branch by clicking create branch from the issue
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to your branch (`git push origin feature/YourFeature`)
 5. Create a new pull request
