@@ -52,7 +52,3 @@ We look forward to your ideas and contributions!
 ## 🍿 Fun Facts
 
 Our team is diverse not just in skills but in breakfast choices too! From classic eggs and bacon to smoothie bowls and avocado toast, our love for coffee unites us all! ☕ What’s your go-to breakfast?
-
----
-
-This README is designed to compel users to engage with the platform, contribute to its development, and feel like part of the Pingojo community.
